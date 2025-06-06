@@ -29,7 +29,7 @@ function Projects() {
       imgPath: biggreenegg,
       title: "Big Green Egg",
       description: "Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages.",
-      // ghLink: "https://github.com/soumyajit4419/Chatify",
+      // ghLink: "https://github.com/devbit-space/Chatify",
       demoLink: "https://biggreenegg.com.au/"
     },
     {
